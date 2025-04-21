@@ -6,11 +6,12 @@ Complete machine learning pipeline for predicting house prices: data cleaning, e
 1. Library Imports & Versions
 2. Dataset Overview
 3. Data Cleaning & Preprocessing
-4. Feature Encoding
-5. Feature Scaling
-6. Model Training & Evaluation
-7. Final Model Selection
-8. Conclusion
+4. Visualization 
+5. Checking Outliers
+6. Checking Correlation
+7. Preparing the data
+8. Model Training & Evaluation
+9. Final Model Selection
 
 ## Model Choice Justification
 Why XGBoost with Threshold = 0.001 Was Chosen
